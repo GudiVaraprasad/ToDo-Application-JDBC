@@ -6,16 +6,15 @@
 
 [Learn More - Try a demo here]()
 
-# Results :
 
 ## Design of GUI
-![](./Results/Output1.png)
+![](./Results/Output1.PNG)
 
 ## Application
-![](./Results/Output2.png)
+![](./Results/Output2.PNG)
 
 ## Database Connectivity
-![](./Results/Output3.png)
+![](./Results/Output3.PNG)
 
 
 
