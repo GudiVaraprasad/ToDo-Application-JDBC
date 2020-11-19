@@ -1,4 +1,4 @@
-## ToDo JAVAFX Application  -  The ultimate Task Builder | JDBC NetBeans Project
+# ToDo JAVAFX Application  -  The ultimate Task Builder
 
 ![](./Results/banner.png)
 
